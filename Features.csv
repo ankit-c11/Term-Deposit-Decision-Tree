@@ -1,0 +1,18 @@
+column,description
+customer_id,unique identifier for each customer (primary key)
+customer_age,age of the customer
+job_type,type of job
+marital,marital status
+education,highest educational qualification
+default,delinquency status
+balance,current account balance
+housing_loan,flag indicating customers with home loan
+personal_loan,flag indicating customers with personal loan
+communication_type,mode of communication of the previous campaign
+day_of_month,day of month when customer was approached
+month,month when customer was approached
+last_contact_duration,days since last approached
+num_contacts_in_campaign,number of times contacted during recent campaign
+num_contacts_prev_campaign,number of times contacted during previous campaign
+prev_campaign_outcome,previous campaign outcome
+term_deposit_subscribed,term deposit subsciption status 
